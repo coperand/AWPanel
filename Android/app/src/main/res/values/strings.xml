@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AWPanel</string>
+    <string name="app_name_short">AWP</string>
+    <string name="refresh">Refresh</string>
+    <string name="wifi_disabled">Wi-fi отключен</string>
+    <string name="send_error">Ошибка отправки</string>
+</resources>
